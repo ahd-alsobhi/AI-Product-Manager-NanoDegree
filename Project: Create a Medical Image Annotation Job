@@ -46,4 +46,8 @@ This is a very challenging classification task and so you should provide clear e
 
 It is suggested that you start with an Appen job-template, and customize it to this particular task. And you can read more about the platform, next.
 
+**The Data**
+You are given a data file xray_image_data.csv (filename may have dashes instead of underscores), which contains a column of image url's and a label column. You can copy-paste any image url into your browser to see an image in its entirety. Of over 100 images in this dataset, only 16 of them are labeled, and so you'll still need to create a job to create a completely labeled dataset. The provided labels are so that you can take a look at known pneumonia/healthy cases, note any visual patterns, and create accurate test questions.
+
+It is recommended that you use an [appropriate Appen template](https://make.figure-eight.com/welcome) as a starting point for this image classification project.
 
